@@ -1,0 +1,39 @@
+h1 {
+  color: #369;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 250%;
+}
+h2 {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 250%;
+}
+body {
+  margin: 2em;
+  background-color: rgba(0, 157, 217, 1);
+}
+.container{
+    width: 700px;
+    margin:0 auto;
+}
+.form_control{
+    font-size: 18px; 
+    height: 40px; 
+    width: 600px;
+}
+
+.btn{
+    height: 40px;
+    font-size: 18px;
+    border-radius: 4px; 
+    border-bottom-left-radius: 0px;
+    border-top-left-radius: 0px;
+    border: 1px solid grey;
+    border-color: rgba(255, 153, 0, 1);
+    color: white; 
+    background-color: rgba(255, 153, 0, 1);
+}
+ /*
+  * See https://github.com/angular/angular.io/blob/master/public/docs/_examples/styles.css
+  * for the full set of master styles used by the documentation samples
+  */
